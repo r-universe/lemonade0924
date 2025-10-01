@@ -5,6 +5,9 @@
 [submodule "PJCcalculator"]
 	path = PJCcalculator
 	url = https://github.com/cran/PJCcalculator
+[submodule "TwoDcDAPSA"]
+	path = TwoDcDAPSA
+	url = https://github.com/cran/TwoDcDAPSA
 [submodule "compareCstat"]
 	path = compareCstat
 	url = https://github.com/lemonade0924/comparecstat
